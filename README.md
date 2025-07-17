@@ -1,1 +1,1 @@
-# Ashish_lr_g_d
+# Linear regression using Gradient descent algorithm
